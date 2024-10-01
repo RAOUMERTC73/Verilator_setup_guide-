@@ -1,0 +1,1335 @@
+37  ~/intelFPGA/*.*/modelsim_ase/bin/vsim  the short cut key is !37
+
+dreambig@dreambig-HP-Pavilion:~$ history
+    1  ls
+    2  scp khi@10.2.16.47:~/Model* .
+    3  ping 10.2.16.47
+    4  scp khi@10.2.16.47:~/Model* .
+    5  sudo apt update -y
+    6  sudo apt install cc
+    7  sudo apt update; sudo apt upgrade
+    8  sudo dpkg --add-architecture i386
+    9  sudo apt-get update
+   10  sudo apt install build-essential
+   11  sudo apt install gcc-multilib g++-multilib lib32z1     lib32stdc++6 lib32gcc1 libxt6:i386 libxtst6:i386 expat:i386     fontconfig:i386 libfreetype6:i386 libexpat1:i386 libc6:i386     libgtk-3-0:i386 libcanberra0:i386 libice6:i386 libsm6:i386     libncurses5:i386 zlib1g:i386 libx11-6:i386 libxau6:i386     libxdmcp6:i386 libxext6:i386 libxft2:i386 libxrender1:i386
+   12  sudo apt-get install lib32gcc-s1
+   13  sudo apt install unix-cc
+   14  sudo apt install cc
+   15  sudo apt install cmake
+   16  sudo apt install devtoolset-9
+   17  sudo apt install devtoolset
+   18  sudo apt install devtool-set
+   19  sudo apt-get buil-pep freetype
+   20  sudo apt-get buil-dep freetype
+   21  sudo apt-get build-dep freetype
+   22  sudo apt-get source freetype--compilr
+   23  sudo apt-get install libtools
+   24  sudo apt-get install libtool
+   25  sudo apt-get install libxrender1:i386 libxtst6:i386 libxi6:i386
+   26  sudo apt-get install libxft
+   27  sudo apt-get install libxft2 libxft2:i386 lib32ncurses5
+   28  sudo apt-get install libxft2 libxft2:i386 lib32ncurses6
+   29  ls
+   30  ./ModelSimSetup-20.1.1.720-linux.run 
+   31  chmod u+w ~/intelFPGA/*.*/modelsim_ase/vco
+   32  cd ~/intelFPGA/*.*/modelsim_ase/ && cp vco vco_original
+   33  sed -i 's/linux\_rh[[:digit:]]\+/linux/g'     ~/intelFPGA/*.*/modelsim_ase/vco
+   34  sed -i 's/MTI_VCO_MODE:-""/MTI_VCO_MODE:-"32"/g'     ~/intelFPGA/*.*/modelsim_ase/vco
+   35  sed -i '/dir=`dirname "$arg0"`/a export LD_LIBRARY_PATH=${dir}/lib32'     ~/intelFPGA/*.*/modelsim_ase/vco
+   36  cd
+   37  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+   38  history
+   39  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+   40  kaekfjaeifj
+   41  date
+   42  cal
+   43  sudo apt install ncal
+   44  cal
+   45  df
+   46  free
+   47  history
+   48  37
+   49  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+   50  pwd
+   51  cd
+   52  ls
+   53  cd desktop
+   54  cd Desktop
+   55  cd /usr/bin
+   56  pwd
+   57  cd ..
+   58  cd .
+   59  cd Desktop
+   60  cd /Destop
+   61  cd Desktop
+   62  cd ..
+   63  cd Desktop
+   64  cd ..
+   65  cd Desktop
+   66  pwd
+   67  ls -a
+   68  -a
+   69  ls -d
+   70  pwd
+   71  sudo apt install iverilog
+   72  sudo apt install iverilog gtkwave
+   73  iverilog
+   74  iverilog --version
+   75  cd.
+   76  cd ..
+   77  sudo apt install iverilog
+   78  sudo apt install iverilog gtkwave
+   79  history
+   80  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+   81  ls -l
+   82  ls
+   83  ./ModelSimSetup-20.1.1.720-linux.run
+   84  ls
+   85  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+   86  sudo dpkg --add-architecture i386
+   87  sudo apt update
+   88  sudo apt install build-essential
+   89  wget https://ftp.osuosl.org/pub/blfs/conglomeration/freetype/freetype-2.4.12.tar.bz2
+   90  tar xjf freetype-2.4.12.tar.bz2
+   91  ls
+   92  tar xjf freetype-2.4.12.tar.bz2
+   93  ls
+   94  cd freetype-2.4.12/
+   95  ls
+   96  cd freetype-2.4.12/
+   97  ./configure --build=i686-pc-linux-gnu "CFLAGS=-m32"     "CXXFLAGS=-m32" "LDFLAGS=-m32"
+   98  make clean
+   99  make
+  100  cd ~/intelFPGA/*.*/modelsim_ase/
+  101  mkdir lib32
+  102  cp ~/freetype-2.4.12/objs/.libs/libfreetype.so* lib32/
+  103  cd
+  104  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  105  ls
+  106  ./ModelSimSetup-19.1.0.670-linux.run
+  107  sudo apt update
+  108  sudo apt upgrade
+  109  ls
+  110  ./ModelSimSetup-*-linux.run
+  111  ls
+  112  ./ModelSimSetup-19.1.0.670-linux.run
+  113  sudo dpkg --add-architecture i386
+  114  sudo apt-get update
+  115  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32ncurses6 libxft2 libxft2:i386 libxext6 libxext6:i386
+  116  ls
+  117  chmod +x ModelSimSetup-19.1.0.670-linux.run
+  118  ./ModelSimSetup-20.1.1.720-linux.run
+  119  ls
+  120  ./ModelSimSetup-19.1.0.670-linux.run
+  121  ./ModelSimSetup-*-linux.run
+  122  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  123  ~/intelFPGA/*.*/modelsim_ase/bin/vsim 
+  124  /intelFPGA/*.*/modelsim_ase/bin/vsim 
+  125  d
+  126  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  127  cd
+  128  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  129  ~/intelFPGA/19.1/modelsim_ase/bin
+  130  ./vsim
+  131  ~/intelFPGA/19.1/modelsim_ase/bin
+  132  sudo dpkg --add-architecture i386 
+  133  sudo apt-get update 
+  134  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 
+  135  sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 
+  136  cd
+  137  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  138  /home/dreambig/intelFPGA/19.1/modelsim_ase/linux_rh60/vsim
+  139  ls -l /home/dreambig/intelFPGA/19.1/modelsim_ase/linux_rh60/vsim
+  140  cd Desktop/
+  141  sudo dpkg --add-architecture i386
+  142  sudo apt-get update
+  143  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32ncurses6 libxft2 libxft2:i386 libxext6 libxext6:i386
+  144  bg
+  145  echo $SHELL
+  146  vsim
+  147  env|grep LIBRARY
+  148  pwd
+  149  ls -al
+  150  /ls -al
+  151  ls -a
+  152  more .bashrc
+  153  subl.bashrc
+  154  more .bashrc
+  155  pwd
+  156  subl .bashrc
+  157  history
+dreambig@dreambig-HP-Pavilion:~$ 
+
+
+
+///===========================================chapter1 start========================================================
+This command displays the current time and date in terminal :  date
+
+
+A related command is cal, which, bydefault, displays a calendar of thecurrent month:  cal
+ 
+ 
+ 
+To see the current amount of free spaceOn your disk drives, enter df:[dreambig@dreambig-HP-Pavilion:~$ df
+
+
+likewise, to display the amount of freememory, enter the free command:reambig@dreambig-HP-Pavilion:~$ free
+
+We can end a terminal session by either closing the terminal emulator window orentering the exit command at the shellprompt dreambig@dreambig-HP-Pavilion:~/Desktop$ exit
+
+
+// confusion
+The Console Behind theCurtain:  Even if we have no terminal emulator running, severalterminal sessions continue to run behind the graphicaldesktop. Called virtual terminals or virtual consoles,these sessions can be accessed on most Linuxdistributions bypressingctrl-alt-F1 through ctrl-alt-F6 on most systems. When a session is accessed, it
+presents a login prompt into which we can enter ourusername and password. To switch from one virtualconsole to another, press alt and F1–F6. To return to the graphical desktop, press alt-F7.
+
+//====================================== chapter1 end===============================================
+
+//======================================Chapter 2.( Navigation )start=============================================================
+
+pwd —Print name of currentworking directory.
+cd—Change directory.// cd  [ folder name type]
+ls—List directory contents.
+
+Relative Pathnames:
+The . symbol refers to the working
+directory and the .. symbol refers to the
+working directory’s parent directory.
+Here is how it works. Let’s change the
+working directory to /usr/bin again:
+[me@linuxbox ˜]$ cd /usr/bin
+[me@linuxbox bin]$ pwd
+/usr/bin
+
+or with a relative pathname:
+[me@linuxbox usr]$ cd ./bin
+[me@linuxbox bin]$ pwd
+/usr/bin
+Now, there is something important that I
+must point out here. In almost all cases,
+you can omit the ./ because it is
+implied. Typing
+[me@linuxbox usr]$ cd bin
+
+cd  == Changes the working directory to your home directory.
+cd - == Changes the working directory to the previous working directory.
+
+cd ˜username == directory to the home directory of username. Forexample, cd ˜bob changes the directory to the homedirectory of user bob.
+
+
+//====================================Chapter 3. Exploring the System ==============================================
+Now that we know how to move aroundthe filesystem, it’s time for a guided tourof our Linux system. Before we start,however, we’re going to learn some more commands that will be useful along the way:
+ls—List directory contents.
+file—Determine file type.
+less—View file contents.
+
+//////////////////////////////////////////////////////////////////////////////////////////
+cd home
+  263  cd /home
+  264  ls
+  265  cd projects
+  266  sudo rm -r *
+  267  ls
+  268  cd
+  269  pwd
+  270  /home
+  271  cd /home
+  272  ls
+  273  rm -r projects
+  274  sudo rm -r projects
+  275  ls
+  276  pwd
+  277  cd /home
+  278  ls
+  279  vsim
+  280  cd
+  281  pwd
+  282  cd/home
+  283  cd /home
+  284  ls
+  285  cd /dreambig
+  286  cd /home/dreambig
+  287  ls /home
+  288  cd /dreambig
+  289  cd /Do
+  290  pwd
+  291  cd /home
+  292  cd /Destop
+  293  pwd
+  294  cd /dreambig
+  295  cd /home
+  296  hmod +x ModelSimSetup-20.1.1.720-linux.run
+  297  chmod +x ModelSimSetup-20.1.1.720-linux.run
+  298  chmod +x /home/dreambig/ModelSimSetup-20.1.1.720-linux.run
+  299  chmod +x ModelSimSetup-20.1.1.720-linux.run
+  300  ./ModelSimSetup-20.1.1.720-linux.run
+  301  cd
+  302  ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+  303  vsim
+  304  chmod +x ModelSimSetup-20.1.1.720-linux.run
+  305  ./ModelSimSetup-20.1.1.720-linux.run
+  306  vsim
+  307  pwd
+  308  /hmoe
+  309  cd /home
+  310  vsim
+  311  mkdir projects
+  312  ls
+  313  cd projects/
+  314  mkdir A1
+  315  ls
+  316  cd /A1
+  317  cd A1
+  318  mkdir dsn
+  319  mkdir sim
+  320  ls
+  321  cd dsn
+  322  touch assignment1.v
+  323  nano assignment1.v
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd /sim
+  328  cd sim
+  329  vlib work
+  330  vlog ../dsn/assignment1_tb.v assignment1.v
+  331  vlog ../dsn/assignment1_tb.v 
+  332  vsim
+  333  vlog ../dsn/assignment1.v assignment1_tb.v
+  334  vsim assignment1_tb
+  335  BG
+  336  bg
+  337  history
+dreambig@dreambig-HP-Pavilion:~$ 
+
+ubuntu@ubuntu:~$ history
+  496  df -h
+  497  sudo apt update
+  498  sudo apt upgrade
+  499  df -h
+  500  lsblk
+  501  ls -l
+  502  ncdu
+  503  sudo apt install ncdu
+  504  ncdu
+  505  cd /home/
+  506  ls
+  507  pwd
+  508  cd
+  509  pwd
+  510  ls\
+  511  cd Desktop/
+  512  cd Dreambig_projects/
+  513  cd A1
+  514  cd sim
+  515  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  516  vsim gry2bin_bin2gry_tb
+  517  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  518  vsim gry2bin_bin2gry_tb
+  519  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  520  vsim gry2bin_bin2gry_tb
+  521  cd Desktop/
+  522  cd Dreambig_projects/
+  523  cd sim
+  524  cd A1
+  525  cd sim
+  526  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  527  vsim gry2bin_bin2gry_tb
+  528  vsim
+  529  gtkwave
+  530  cd Desktop/
+  531  cd Dreambig_projects/
+  532  cd A1
+  533  cd sim
+  534  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  535  vsim gry2bin_bin2gry_tb
+  536  gtkwave
+  537  vlog ../dsn/top_bin_gray.sv top_bin_gray_tb.sv
+  538  vsim top_bin_gray_tb
+  539  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  540  vsim gry2bin_bin2gry_tb
+  541  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  542  vsim gry2bin_bin2gry_tb
+  543  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  544  vsim gry2bin_bin2gry_tb
+  545  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  546  vsim gry2bin_bin2gry_tb
+  547  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  548  vsim gry2bin_bin2gry_tb
+  549  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  550  vsim gry2bin_bin2gry_tb
+  551  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  552  vsim gry2bin_bin2gry_tb
+  553  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  554  vsim gry2bin_bin2gry_tb
+  555  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  556  vsim gry2bin_bin2gry_tb
+  557  gtkwave
+  558  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  559  vsim gry2bin_bin2gry_tb
+  560  vlog ../dsn/mux_4x1_case.sv  mux_4x1_case_tb.sv
+  561  mux_4x1_case_tb
+  562  vsim mux_4x1_case_tb
+  563  vlog ../dsn/mux_4x1_case.sv  mux_4x1_case_tb.sv
+  564  vsim mux_4x1_case_tb
+  565  vlog ../dsn/mux_4x1_case.sv  mux_4x1_case_tb.sv
+  566  vsim mux_4x1_case_tb
+  567  vlog ../dsn/gry2bin_bin2gry.sv gry2bin_bin2gry_tb.sv
+  568  vsim gry2bin_bin2gry_tb
+  569  vlog ../dsn/mux_4x1_if.sv  mux_4x1_if_tb.sv
+  570  vsim mux_4x1_if_tb
+  571  vlog ../dsn/odd_parity.sv odd_parity_tb.sv
+  572  vsim odd_parity_tb
+  573  vlog ../dsn/odd_parity.sv odd_parity_tb.sv
+  574  vsim odd_parity_tb
+  575  vlog ../dsn/odd_parity.sv odd_parity_tb.sv
+  576  vsim odd_parity_tb
+  577  vlog ../dsn/odd_parity.sv odd_parity_tb.sv
+  578  vsim odd_parity_tb
+  579  subl
+  580  cd Desktop/
+  581  cd Dreambig_projects/
+  582  cd A1
+  583  cd sim
+  584  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  585  vsim &
+  586  ls -lrt mux_4x1_*sv
+  587  history
+  588  cd Desktop/
+  589  cd Dreambig_projects/
+  590  cd A1
+  591  cd sim
+  592  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  593  vsim
+  594  vsim &
+  595  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  596  vsim &
+  597  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  598  iverilog -o out.vvp delay_n_cycles_tb.v delay_n_cycles.v
+  599  vvp out.vvp
+  600  iverilog -o out.vvp delay_n_cycles_tb.v delay_n_cycles.v
+  601  vvp out.vvp
+  602  ls -l
+  603  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  604  ls -l delay_n_cycles_tb.sv
+  605  rm module\ delay_n_cycles_tb.sv 
+  606  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  607  vsim &
+  608  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  609  vsim delay_n_cycles_tb
+  610  vsim &
+  611  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  612  vsim delay_n_cycles_tb
+  613  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  614  vsim delay_n_cycles_tb
+  615  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  616  vsim n_delay_tb
+  617  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  618  vsim n_delay_tb
+  619  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  620  vsim n_delay_tb
+  621  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  622  vsim n_delay_tb
+  623  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  624  vsim n_delay_tb
+  625  bg
+  626  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  627  vsim n_delay_tb
+  628  jobs
+  629  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  630  vsim n_delay_tb
+  631  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  632  vsim n_delay_tb
+  633  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  634  vsim n_delay_tb
+  635  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  636  vsim n_delay_tb
+  637  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  638  vsim n_delay_tb
+  639  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  640  vsim n_delay_tb
+  641  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  642  vsim n_delay_tb
+  643  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  644  vsim n_delay_tb
+  645  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  646  vsim n_delay_tb
+  647  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  648  vsim n_delay_tb
+  649  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  650  vsim n_delay_tb
+  651  vlog ../dsn/n_delay.sv n_delay_tb.sv
+  652  vsim n_delay_tb
+  653  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  654  vsim delay_n_cycles_tb
+  655  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  656  vsim delay_n_cycles_tb
+  657  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  658  vsim delay_n_cycles_tb
+  659  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  660  vsim delay_n_cycles_tb
+  661  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+  662  vsim delay_n_cycles_tb
+  663  vlog ../dsn/PISO.sv PISO_tb.sv 
+  664  vsim PISO_tb
+  665  vlog ../dsn/PISO.sv PISO_tb.sv 
+  666  vsim PISO_tb
+  667  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  668  vsim top_tb
+  669  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  670  vsim top_tb
+  671  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  672  vsim top_tb
+  673  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  674  vsim top_tb
+  675  vsim &
+  676  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  677  vsim top_tb
+  678  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  679  vsim top_tb
+  680  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  681  vsim top_tb
+  682  vsim &
+  683  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  684  ls
+  685  cd Desktop/
+  686  cd Dreambig_projects/
+  687  cd A1
+  688  cd sim
+  689  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  690  vsim top_tb
+  691  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  692  vsim SIPO_L_tb
+  693  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  694  vsim SIPO_L_tb
+  695  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  696  vsim SIPO_L_tb
+  697  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  698  vsim SIPO_L_tb
+  699  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  700  vsim SIPO_L_tb
+  701  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  702  vsim SIPO_L_tb
+  703  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  704  vsim SIPO_L_tb
+  705  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  706  vsim SIPO_L_tb
+  707  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  708  vsim SIPO_L_tb
+  709  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  710  vsim SIPO_L_tb
+  711  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  712  vsim SIPO_L_tb
+  713  vsim &
+  714  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  715  vsim SIPO_L_tb
+  716  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  717  vsim SIPO_L_tb
+  718  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  719  vsim top_tb
+  720  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  721  vsim top_tb
+  722  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  723  vsim top_tb
+  724  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  725  vsim top_tb
+  726  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  727  vsim top_tb
+  728  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  729  vsim top_tb
+  730  cd Desktop/
+  731  cd Dreambig_projects/
+  732  cd A1
+  733  cd sim
+  734  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  735  vsim top_tb
+  736  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  737  vsim top_tb
+  738  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  739  vsim top_tb
+  740  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  741  vsim top_tb
+  742  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  743  vsim top_tb
+  744  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  745  vsim top_tb
+  746  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  747  vsim top_tb
+  748  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  749  vsim top_tb
+  750  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  751  vsim top_tb
+  752  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  753  vsim top_tb
+  754  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  755  vsim top_tb
+  756  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  757  vsim top_tb
+  758  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  759  vsim top_tb
+  760  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  761  vsim top_tb
+  762  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  763  vsim top_tb
+  764  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  765  vsim top_tb
+  766  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  767  vsim top_tb
+  768  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  769  vsim top_tb
+  770  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  771  vsim top_tb
+  772  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  773  vsim top_tb
+  774  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  775  vsim top_tb
+  776  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  777  vsim top_tb
+  778  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  779  vsim top_tb
+  780  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  781  vsim top_tb
+  782  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  783  vsim posedge_detect_tb
+  784  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  785  vsim posedge_detect_tb
+  786  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  787  vsim posedge_detect_tb
+  788  vlog ../dsn/detect.sv  detect_tb.sv
+  789  vsim detect_tb
+  790  vlog ../dsn/detect.sv  detect_tb.sv
+  791  vsim detect_tb
+  792  vlog ../dsn/detect.sv  detect_tb.sv
+  793  vsim detect_tb
+  794  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  795  vsim posedge_detect_tb
+  796  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  797  vsim posedge_detect_tb
+  798  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  799  vsim posedge_detect_tb
+  800  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  801  vsim posedge_detect_tb
+  802  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  803  vsim posedge_detect_tb
+  804  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  805  vsim posedge_detect_tb
+  806  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  807  vsim top_tb
+  808  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  809  vsim top_tb
+  810  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  811  vsim top_tb
+  812  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  813  vsim posedge_detect_tb
+  814  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  815  vsim posedge_detect_tb
+  816  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  817  vsim posedge_detect_tb
+  818  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  819  vsim posedge_detect_tb
+  820  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  821  vsim posedge_detect_tb
+  822  vlog ../dsn/detect.sv  detect_tb.sv
+  823  vsim detect_tb
+  824  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  825  vsim top_tb
+  826  vlog ../dsn/detect.sv  detect_tb.sv
+  827  vsim top_tb
+  828  vlog ../dsn/detect.sv  detect_tb.sv
+  829  vsim top_tb
+  830  vlog ../dsn/detect.sv  detect_tb.sv
+  831  vsim top_tb
+  832  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  833  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  834  vsim top_tb
+  835  vlog ../dsn/PosEdgeDetect.sv top_tb.sv
+  836  vsim top_tb
+  837  posedge_detect.sv posedge_detect_tb.sv
+  838  vlog posedge_detect.sv posedge_detect_tb.sv
+  839  vlog ../dsn/posedge_detect.sv posedge_detect_tb.sv
+  840  vsim posedge_detect_tb
+  841  vlog ../dsn/edge_detector.sv edge_detector_tb.sv
+  842  vlog ../dsn/p_edgedv edge_detector_tb.sv
+  843  p_edgedector.sv edge_detector_tb.sv
+  844  vlog p_edgedector.sv edge_detector_tb.sv
+  845  vlog ../dsn/negedge_det.sv edge_detector_tb.sv
+  846  vsim edge_detector_tb
+  847  vlog ../dsn/negedge_det.sv edge_detector_tb.sv
+  848  vsim edge_detector_tb
+  849  vlog ../dsn/negedge_det.sv edge_detector_tb.sv
+  850  vsim edge_detector_tb
+  851  vlog ../dsn/negedge_det.sv edge_detector_tb.sv
+  852  vsim edge_detector_tb
+  853  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  854  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_detect_tb.sv
+  855  vsim PosEdge_level_detect_tb
+  856  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_detect_tb.sv
+  857  vsim PosEdge_level_detect_tb
+  858  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_detect_tb.sv
+  859  vsim PosEdge_level_detect_tb
+  860  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_detect_tb.sv
+  861  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  862  vsim PosEdge_level_Detect_tb
+  863  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  864  vsim PosEdge_level_Detect_tb
+  865  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  866  vsim PosEdge_level_Detect_tb
+  867  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  868  vsim PosEdge_level_Detect_tb
+  869  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  870  vsim PosEdge_level_Detect_tb
+  871  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  872  vsim PosEdge_level_Detect_tb
+  873  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  874  vsim PosEdge_level_Detect_tb
+  875  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  876  vsim edge_detector_tb
+  877  vlog ../dsn/one_sh_neg.sv one_sh_pos.sv edge_detector_tb.sv
+  878  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  879  vsim edge_detector_tb
+  880  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  881  vsim edge_detector_tb
+  882  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  883  vsim edge_detector_tb
+  884  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  885  vsim edge_detector_tb
+  886  ls
+  887  sudo dpkg -i Quartus-lite-17.0.0.595-linux.tar
+  888  wget Quartus-lite-17.0.0.595-linux.tar
+  889  sudo apt-get install Quartus-lite-17.0.0.595-linux.tar
+  890  sudo 
+  891  sudo apt update
+  892  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv
+  893  vsim one_sh_neg_tb
+  894  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+  895  vsim one_sh_pos_tb
+  896  vlog ../dsn/detect.sv detect_tb.v 
+  897  vlog ../dsn/detect.sv detect_tb.sv 
+  898  vsim detect_tb
+  899  vlog ../dsn/detect.sv detect_tb.sv 
+  900  vsim detect_tb
+  901  vlog ../dsn/detect.sv detect_tb.sv 
+  902  vsim detect_tb
+  903  vlog ../dsn/detect.sv detect_tb.sv 
+  904  vsim detect_tb
+  905  vlog ../dsn/SISO.sv SISO_TB.sv
+  906  vsim SISO_TB
+  907  vlog ../dsn/SISO.sv SISO_TB.sv
+  908  vsim SISO_TB
+  909  vlog ../dsn/SISO.sv SISO_TB.sv
+  910  vsim SISO_TB
+  911  vlog ../dsn/SISO.sv SISO_TB.sv
+  912  vsim SISO_TB
+  913  vlog ../dsn/SISO.sv SISO_TB.sv
+  914  vsim SISO_TB
+  915  vlog ../dsn/SISO.sv SISO_TB.sv
+  916  vsim SISO_TB
+  917  vlog ../dsn/SISO.sv SISO_TB.sv
+  918  vsim SISO_TB
+  919  vlog ../dsn/SISO.sv SISO_TB.sv
+  920  vsim SISO_TB
+  921  ls
+  922  ./Quartus-lite-17.0.0.595-linux.tar
+  923  sudo ./Quartus-lite-17.0.0.595-linux.tar
+  924  sudo .Quartus-lite-17.0.0.595-linux.tar
+  925  clear
+  926  tar Quartus-lite-17.0.0.595-linux.tar
+  927  tar 'Quartus-lite-17.0.0.595-linux.tar'
+  928  ./QuartusLiteSetup-18.1.0.625-linux.run
+  929  cd
+  930  pwd
+  931  ls
+  932  cd quartus/
+  933  ls
+  934  chmod +x setup.sh
+  935  ./install.sh
+  936  ls
+  937  chmod +x qinst-lite-linux-23.1std-991.run
+  938  cd Desktop/
+  939  cd Dreambig_projects/
+  940  cd A1
+  941  cd sim
+  942  subl
+  943  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  944  vsim pulse_gen_ns_tb
+  945  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  946  vsim pulse_gen_ns_tb
+  947  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+  948  edge_detector_tb
+  949  vsim edge_detector_tb
+  950  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+  951  vsim one_sh_pos_tb
+  952  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+  953  vsim one_sh_pos_tb
+  954  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+  955  vsim one_sh_pos_tb
+  956  bg
+  957  vlog ../dsn/one_sh_neg.sv  one_sh_neg_tb.sv 
+  958  one_sh_neg_tb.sv 
+  959  vsim one_sh_neg_tb
+  960  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+  961  vsim one_sh_pos_tb
+  962  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+  963  vsim PosEdge_level_Detect_tb
+  964  vlog SIPO_L.sv SIPO_L_tb.sv
+  965  vlog ../dsn/SIPO_L.sv SIPO_L_tb.sv
+  966  vsim SIPO_L_tb
+  967  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  968  vsim pulse_gen_ns_tb
+  969  bg
+  970  vlog ../dsn/detect.sv detect_tb.sv 
+  971  vsim detect_tb
+  972  vlog ../dsn/detect.sv detect_tb.sv 
+  973  vsim detect_tb
+  974  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  975  vsim pulse_gen_ns_tb
+  976  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  977  vsim pulse_gen_ns_tb
+  978  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+  979  vsim pulse_gen_ns_tb
+  980  vsim
+  981  cd Desktop/
+  982  ls
+  983  cd linux_commad/
+  984  ls
+  985  FPGA Prototyping with Verilog examples.pdf
+  986  FPGA 'Prototyping with Verilog examples.pdf'
+  987  ls
+  988  chmod +x qinst-lite-linux-23.1std-991.run
+  989  ./qinst-lite-linux-23.1std-991.run
+  990  quartus
+  991  cd ~/intelFPGA/*.*/questa_fse/bin/vsim
+  992  ls
+  993  cd
+  994  cd ~/intelFPGA/*.*/questa_fse/bin/vsim
+  995  cd ~/intelFPGA/*.*/questa_fse/bin/
+  996  cd ~/intelFPGA_lite/*.*/questa_fse/bin/
+  997  vsim
+  998  qurtus
+  999  cd
+ 1000  cd ~/intelFPGA_lite/*.*/questa_fse/bin/q_run
+ 1001  cd ~/intelFPGA_lite/*.*/questa_fse/bin/qrun
+ 1002  cd ~/intelFPGA_lite/*.*/questa_fse/bin/vlog
+ 1003  vsim
+ 1004  cd Desktop/
+ 1005  cd Dreambig_projects/
+ 1006  cd A1
+ 1007  cd sim/
+ 1008  subl
+ 1009  vlog ../dsn/ComplexMultiplierAdder.sv
+ 1010  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1011  vsim pulse_gen_ns_tb
+ 1012  vsim &
+ 1013  bg
+ 1014  jobs
+ 1015  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1016  vsim fifo_tb
+ 1017  ls
+ 1018  ./setup.sh
+ 1019  cd
+ 1020  /home/
+ 1021  ls
+ 1022  /intelFPGA_lite/20.1/quartus/bin/quartus --64bit
+ 1023  ~/intelFPGA_lite/*.*/quartus/bin/quartus --64bit
+ 1024  env
+ 1025  echo $PATH
+ 1026  quartus
+ 1027  ls -l ~/intelFPGA_lite/*.*/quartus/bin/quartus --64bit
+ 1028  export $PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1029  export $PATH=${PATH}:/home/intelFPGA_lite/20.1/quartus/bin/
+ 1030  export $PATH=${PATH}:~/intelFPGA_lite/*.*/quartus/bin/
+ 1031  ls - 
+ 1032  ls -l ~/intelFPGA_lite/*.*/quartus/bin/quartus --64bit
+ 1033  ls -l ~/intelFPGA_lite/*.*/quartus/bin/quartus 
+ 1034  export $PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1035  export PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1036  echo $PATH
+ 1037  echo $SHELL
+ 1038  subl ./bashrc
+ 1039  more ./bashrc
+ 1040  nano ./bashrc
+ 1041  source ~/.bashrc
+ 1042  code ./bashrc
+ 1043  subl ./bashrc
+ 1044  more ./bashrc
+ 1045  nano ./bashrc
+ 1046  ./bashrc
+ 1047  source ~/.bashrc
+ 1048  nano ./bashrc
+ 1049  quartus
+ 1050  vsim
+ 1051  pwd
+ 1052  quartus
+ 1053  vsim
+ 1054  export PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1055  quartus
+ 1056  nano ./bashrc
+ 1057  quartus
+ 1058  export PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1059  quartus
+ 1060  quartus --64bit
+ 1061  vsim
+ 1062  bg
+ 1063  quartus --64bit
+ 1064  export PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1065  quartus --64bit
+ 1066  jobs
+ 1067  export PATH=${PATH}:/home/ubuntu/intelFPGA_lite/20.1/quartus/bin/
+ 1068  quartus
+ 1069  vsim
+ 1070  Desktop/
+ 1071  cd Desktop/
+ 1072  cd Dreambig_projects/
+ 1073  cd A1
+ 1074  cd sim/
+ 1075  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1076  vsim fifo_tb
+ 1077  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1078  vsim fifo_tb
+ 1079  subl
+ 1080  cd Desktop/
+ 1081  cd Dreambig_projects/
+ 1082  cd A1
+ 1083  cd sim/
+ 1084  quartus
+ 1085  quartus --64bit
+ 1086  subl bashrc
+ 1087  nano ~/.bashrc
+ 1088  more ~/.bashrc
+ 1089  quartus
+ 1090  ~/intelFPGA_lite/*.*/quartus/bin/quartus --64bit
+ 1091  nano ~/.bashrc
+ 1092  more ~/.bashrc
+ 1093  quartus
+ 1094  nano ~/.bashrc
+ 1095  more ~/.bashrc
+ 1096  37!
+ 1097  nano ~/.bashrc
+ 1098  quartus
+ 1099  sudo apt update
+ 1100  apt list --upgradable
+ 1101  df
+ 1102  lscpu
+ 1103  free -h
+ 1104  df -h
+ 1105  ifconfig -a
+ 1106  lspci -v | grep -A 12 VGA
+ 1107  df -h
+ 1108  quartus
+ 1109  timedatectl
+ 1110  ls -l /etc/localtime
+ 1111  list-timezones
+ 1112  timedatectl list-timezones
+ 1113  sudo timedatectl set-timezone America/Aruba
+ 1114  timedatectl
+ 1115  cd
+ 1116  clear
+ 1117  nano ~/.bashrc
+ 1118  quartus
+ 1119  clear
+ 1120  ls
+ 1121  update apt news
+ 1122  sudo apt-get update
+ 1123  sudo apt-get upgrade
+ 1124  caln
+ 1125  cal
+ 1126  sudo apt install ncal
+ 1127  cal
+ 1128  date
+ 1129  uname -r
+ 1130  exit
+ 1131  subl
+ 1132  quartus
+ 1133  exit
+ 1134  subl
+ 1135  cd Desktop/
+ 1136  cd Dreambig_projects/
+ 1137  cd A1
+ 1138  cd sim/
+ 1139  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv 
+ 1140  vsim one_sh_neg_tb
+ 1141  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv 
+ 1142  vsim one_sh_neg_tb
+ 1143  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv 
+ 1144  vsim one_sh_neg_tb
+ 1145  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1146  vsim one_sh_pos_tb
+ 1147  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv 
+ 1148  vsim one_sh_neg_tb
+ 1149  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv 
+ 1150  vsim one_sh_neg_tb
+ 1151  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1152  vsim one_sh_pos_tb
+ 1153  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1154  vsim one_sh_pos_tb
+ 1155  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+ 1156  vsim edge_detector_tb
+ 1157  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+ 1158  vsim edge_detector_tb
+ 1159  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+ 1160  vsim edge_detector_tb
+ 1161  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+ 1162  vsim edge_detector_tb
+ 1163  vlog ../dsn/one_sh_neg.sv edge_detector_tb.sv
+ 1164  vsim edge_detector_tb
+ 1165  vsim
+ 1166  update APT news
+ 1167  update apt news
+ 1168  subl
+ 1169  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1170  ~vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1171  cd Desktop/
+ 1172  cd Dreambig_projects/
+ 1173  cd A1
+ 1174  cd sim/
+ 1175  ~vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1176  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1177  vsim pulse_gen_ns_tb
+ 1178  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1179  vsim pulse_gen_ns_tb
+ 1180  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv 
+ 1181  vsim pulse_gen_ns_tb
+ 1182  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1183  vsim FIFO_tb
+ 1184  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1185  vsim FIFO_tb
+ 1186  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1187  vsim FIFO_tb
+ 1188  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1189  vsim FIFO_tb
+ 1190  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1191  vsim FIFO_tb
+ 1192  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1193  vsim FIFO_tb
+ 1194  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1195  vsim FIFO_tb
+ 1196  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1197  vsim FIFO_tb
+ 1198  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1199  vsim FIFO_tb
+ 1200  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1201  vsim FIFO_tb
+ 1202  vlog ../dsn/FIFO.sv FIFO_tb.sv 
+ 1203  vsim FIFO_tb
+ 1204  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1205  vsim 
+ 1206  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1207  vsim delay_n_cycles_tb
+ 1208  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1209  vsim delay_n_cycles_tb
+ 1210  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1211  vlog ../dsn/PosEdge_level_Detect.sv PosEdge_level_Detect_tb.sv
+ 1212  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1213  vsim Edge_level_Detect_tb
+ 1214  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1215  vsim Edge_level_Detect_tb
+ 1216  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1217  vsim Edge_level_Detect_tb
+ 1218  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1219  vsim Edge_level_Detect_tb
+ 1220  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1221  vsim Edge_level_Detect_tb
+ 1222  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1223  vsim Edge_level_Detect_tb
+ 1224  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1225  vsim Edge_level_Detect_tb
+ 1226  vlog ../dsn/Edge_level_Detect.sv Edge_level_Detect_tb.sv
+ 1227  vsim Edge_level_Detect_tb
+ 1228  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1229  vsim one_sh_pos_tb
+ 1230  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv
+ 1231  vsim one_sh_neg_tb
+ 1232  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1233  vsim one_sh_pos_tb
+ 1234  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1235  vsim one_sh_pos_tb
+ 1236  vlog ../dsn/one_sh_neg.sv one_sh_neg_tb.sv
+ 1237  vsim one_sh_neg_tb
+ 1238  vlog ../dsn/one_sh_pos.sv one_sh_pos_tb.sv
+ 1239  vsim one_sh_pos_tb
+ 1240  vlog ../dsn/ChangeDetect.sv ChangeDetect_tb.sv
+ 1241  vsim ChangeDetect_tb
+ 1242  vlog ../dsn/ChangeDetect.sv ChangeDetect_tb.sv
+ 1243  vsim ChangeDetect_tb
+ 1244  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1245  vsim pulse_gen_ns_tb
+ 1246  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1247  vsim pulse_gen_ns_tb
+ 1248  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1249  vsim pulse_gen_ns_tb
+ 1250  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1251  vsim pulse_gen_ns_tb
+ 1252  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1253  vsim pulse_gen_ns_tb
+ 1254  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1255  vsim pulse_gen_ns_tb
+ 1256  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1257  vsim
+ 1258  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1259  vsim pulse_gen_ns_tb
+ 1260  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1261  vsim pulse_gen_ns_tb
+ 1262  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1263  vsim pulse_gen_ns_tb
+ 1264  vlog ../dsn/ChangeDetect.sv ChangeDetect_tb.sv
+ 1265  vsim ChangeDetect_tb
+ 1266  vlog ../dsn/ChangeDetect.sv ChangeDetect_tb.sv
+ 1267  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1268  vsim pulse_gen_ns_tb
+ 1269  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1270  vsim delay_n_cycles_tb
+ 1271  vlog ../dsn/TopModuleSeq.sv TopModuleSeq_tb.sv
+ 1272  vsim TopModuleSeq_tb
+ 1273  vlog ../dsn/pulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1274  vsim pulse_gen_ns_tb
+ 1275  vlog ../dsn/TopModuleSeq.sv TopModuleSeq_tb.sv
+ 1276  vsim TopModuleSeq_tb
+ 1277  vlog ../dsn/TopModuleSeq.sv TopModuleSeq_tb.sv
+ 1278  vsim TopModuleSeq_tb
+ 1279  vlog ../dsn/TopModuleSeq.sv TopModuleSeq_tb.sv
+ 1280  vsim TopModuleSeq_tb
+ 1281  _tbpulse_gen_ns.sv pulse_gen_ns_tb.sv
+ 1282  vsim pulse_gen_ns_tb
+ 1283  vlog ../dsn/delay_n_cycles.sv delay_n_cycles_tb.sv
+ 1284  vsim delay_n_cycles_tb
+ 1285  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1286  vsim FIFO_tb
+ 1287  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1288  vsim FIFO_tb
+ 1289  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1290  vsim FIFO_tb
+ 1291  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1292  vsim FIFO_tb
+ 1293  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1294  vsim FIFO_tb
+ 1295  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1296  vsim FIFO_tb
+ 1297  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1298  vsim FIFO_tb
+ 1299  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1300  vsim FIFO_tb
+ 1301  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1302  vsim FIFO_tb
+ 1303  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1304  vsim FIFO_tb
+ 1305  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1306  vsim FIFO_tb
+ 1307  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1308  vsim FIFO_tb
+ 1309  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1310  vsim FIFO_tb
+ 1311  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1312  vsim FIFO_tb
+ 1313  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1314  vsim FIFO_tb
+ 1315  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1316  vsim FIFO_tb
+ 1317  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1318  vsim FIFO_tb
+ 1319  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1320  vsim FIFO_tb
+ 1321  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1322  vsim FIFO_tb
+ 1323  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1324  vsim FIFO_tb
+ 1325  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1326  vsim FIFO_tb
+ 1327  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1328  vsim FIFO_tb
+ 1329  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1330  vsim FIFO_tb
+ 1331  vlog ../dsn/FIFO.sv fifo_tb.sv
+ 1332  vsim fifo_tb
+ 1333  vlog ../dsn/FIFO.sv fifo_tb.sv
+ 1334  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1335  vsim FIFO_tb
+ 1336  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1337  vsim FIFO_tb
+ 1338  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1339  vsim FIFO_tb
+ 1340  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1341  vsim FIFO_tb
+ 1342  vlog ../dsn/FIFO.sv FIFO_tb.svvlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1343  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1344  vsim FIFO_tb
+ 1345  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1346  vsim FIFO_tb
+ 1347  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1348  vsim FIFO_tb
+ 1349  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1350  vsim FIFO_tb
+ 1351  cd Desktop/
+ 1352  cd Dreambig_projects/
+ 1353  cd A1
+ 1354  cd sim/
+ 1355  subl
+ 1356  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1357  vsim FIFO_tb
+ 1358  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1359  vsim fifo_tb
+ 1360  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1361  vsim fifo_tb
+ 1362  vlog ../dsn/ComplexMultiplierAdder.sv ComplexMultiplierAdder_tb.sv
+ 1363  vsim ComplexMultiplierAdder_tb
+ 1364  vlog ../dsn/ComplexMultiplierAdder.sv ComplexMultiplierAdder_tb.sv
+ 1365  vsim ComplexMultiplierAdder_tb
+ 1366  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1367  vsim FIFO_tb
+ 1368  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1369  vsim FIFO_tb
+ 1370  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1371  vsim FIFO_tb
+ 1372  vlog ../dsn/ComplexMultiplierAdder.sv ComplexMultiplierAdder_tb.sv
+ 1373  vsim ComplexMultiplierAdder_tb
+ 1374  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1375  vsim FIFO_tb
+ 1376  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1377  vsim fifo_tb.sv 
+ 1378  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1379  vsim fifo_tb.sv 
+ 1380  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1381  vsim fifo_tb
+ 1382  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1383  vsim FIFO_tb
+ 1384  jobs
+ 1385  bg 
+ 1386  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1387  vsim fifo_tb
+ 1388  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1389  vsim FIFO_tb
+ 1390  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1391  vsim fifo_tb
+ 1392  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1393  vsim fifo_tb
+ 1394  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1395  vsim FIFO_tb
+ 1396  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1397  vsim fifo_tb
+ 1398  subl
+ 1399  cd Desktop/
+ 1400  cd Dreambig_projects/
+ 1401  cd A1
+ 1402  cd sim/
+ 1403  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1404  vsim fifo_tb
+ 1405  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1406  vsim fifo_tb
+ 1407  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1408  vsim FIFO_tb
+ 1409  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1410  vsim fifo_tb
+ 1411  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1412  vsim FIFO_tb
+ 1413  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1414  vsim fifo_tb
+ 1415  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1416  vsim fifo_tb
+ 1417  cd Desktop/
+ 1418  cd Dreambig_projects/
+ 1419  cd A1
+ 1420  cd s
+ 1421  cd sim/
+ 1422  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1423  vsim fifo_tb
+ 1424  vlog ../dsn/fifo.sv fifo_tb.sv
+ 1425  vsim fifo_tb
+ 1426  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1427  vsim FIFO_tb
+ 1428  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1429  vsim FIFO_tb
+ 1430  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1431  vsim FIFO_tb
+ 1432  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1433  vsim FIFO_tb
+ 1434  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1435  vsim FIFO_tb
+ 1436  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1437  vsim FIFO_tb
+ 1438  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1439  vsim FIFO_tb
+ 1440  vlog ../dsn/fsmsd1001_mealy.sv fsmsd1001_mealy_tb.sv
+ 1441  vsim fsmsd1001_mealy_tb
+ 1442  vlog ../dsn/fsmsd1001_mealy.sv fsmsd1001_mealy_tb.sv
+ 1443  vsim fsmsd1001_mealy_tb
+ 1444  vlog ../dsn/fsmsd1001_mealy.sv fsmsd1001_mealy_tb.sv
+ 1445  vsim fsmsd1001_mealy_tb
+ 1446  vlog ../dsn/fsmsd1001_mealy.sv fsmsd1001_mealy_tb.sv
+ 1447  vsim fsmsd1001_mealy_tb
+ 1448  subl
+ 1449  cd D
+ 1450  cd Desktop/
+ 1451  cd Dreambig_projects/
+ 1452  cd A1
+ 1453  cd sim/
+ 1454  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1455  vsim FIFO_tb
+ 1456  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1457  vsim FIFO_s_tb
+ 1458  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1459  vsim FIFO_s_tb
+ 1460  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1461  vsim FIFO_s_tb
+ 1462  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1463  vsim FIFO_s_tb
+ 1464  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1465  vsim FIFO_s_tb
+ 1466  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1467  vsim FIFO_tb
+ 1468  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1469  vsim FIFO_tb
+ 1470  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1471  vsim FIFO_s_tb
+ 1472  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1473  vsim FIFO_s_tb
+ 1474  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1475  vsim FIFO_s_tb
+ 1476  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1477  vsim FIFO_s_tb
+ 1478  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1479  vsim FIFO_s_tb
+ 1480  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1481  vsim FIFO_s_tb
+ 1482  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1483  vsim FIFO_s_tb
+ 1484  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1485  vsim FIFO_s_tb
+ 1486  vlog ../dsn/FIFO_s.sv FIFO_s_tb.sv
+ 1487  vsim FIFO_s_tb
+ 1488  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1489  vsim FIFO_tb
+ 1490  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1491  vsim FIFO_tb
+ 1492  vlog ../dsn/FIFO.sv FIFO_tb.sv
+ 1493  vsim FIFO_tb
+ 1494  quartus
+ 1495  history
+ubuntu@ubuntu:~$ history
+
+
+
+
+
+
+ Errors: 0, Warnings: 0
+PS C:\Users\Rao\Desktop\Dreambig_projects\A1\sim> code  .\odd_parity_tb.sv
+PS C:\Users\Rao\Desktop\Dreambig_projects\A1\sim> history
+
+  Id CommandLine
+  -- -----------
+   1 cd .\Desktop\
+   2 cd .\Dreambig_projects\
+   3 cd .\A1\sim\
+   4 vlog  ..\dsn\odd_parity.sv odd_parity_tb.sv
+   5 vsim odd_parity_tb
+   6 vsim -c odd_parity_tb
+   7 vsim -c .\odd_parity_tb.sv
+   8 vsim -c odd_parity_tb.sv
+   9 vlog  ..\dsn\odd_parity.sv odd_parity_tb.sv
+  10 vsim -c odd_parity_tb -do "run -a;exit"
+  11 code  .\odd_parity_tb.sv
+
+
+PS C:\Users\Rao\Desktop\Dreambig_projects\A1\sim>
+
+
+
+
