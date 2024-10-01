@@ -1,0 +1,271 @@
+
+
+# Since modelSim requires 32bit libraries we use the following commands to install the requirements.
+
+sudo dpkg --add-architecture i386
+
+# Then update your system:
+
+sudo apt-get update
+
+# Then install the requirements for modelSim:
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32ncurses6 libxft2 libxft2:i386 libxext6 libxext6:i386
+
+After that, Download the ModelSim - Intel FPGA edition installer (both packages) from the Intel homepage.
+
+# Make the installer executable
+
+chmod +x ModelSimSetup-20.1.1.720-linux.run
+
+# Run the installer and install ModelSim:
+
+./ModelSimSetup-20.1.1.720-linux.run
+
+# Run the vsim script to start ModelSim
+cd ~/intelFPGA/*.*/modelsim_ase/bin/vsim
+
+#################for vs code and iverilog ##############################
+ sudo dpkg -i code_1.87.1-1709685762_amd64.deb 
+code
+
+sudo apt install iverilog
+
+sudo apt install gtkwave
+
+iverilog -o out.vvp test_tb.v test.v
+
+vvp out.vvp
+
+gtkwave
+ ====================path short cut==========================
+ Sure, to shorten the command `~/intelFPGA/*/modelsim_ase/bin/vsim` to just `vsim`, you'll create an alias. Here's how you can do it step by step on Ubuntu:
+# Open a terminal. You can do this by searching for "Terminal" in the applications menu or by using the shortcut `Ctrl + Alt + T`.
+
+# In the terminal, type the following command and press Enter. This command will open your `.bashrc` file in the default text editor (usually Nano):
+
+bash
+nano ~/.bashrc
+
+///////////////////
+~/Utils/oss-cad-suite/bin/verilator
+//////////////
+
+# Scroll to the end of the file using the arrow keys.
+
+# Add the following line at the end of the file:
+
+bash
+alias vsim='~/intelFPGA/*/modelsim_ase/bin/vsim'
+
+
+# Press `Ctrl + O` to save the file, and then press `Enter` to confirm the filename.
+
+# Press `Ctrl + X` to exit Nano.
+
+# To apply the changes, either close and reopen the terminal or run the following command in the terminal:
+
+bash
+source ~/.bashrc
+
+
+# Now, whenever you type `vsim` in the terminal, it will execute the command `~/intelFPGA/*/modelsim_ase/bin/vsim`.
+
+
+//////////////////////////////////////////////////////////////////////
+# This assumes that the "Downloads" folder is located directly within your home directory. If it's located elsewhere, you need to provide the full path to it. For example:
+
+bash
+cd ~/Downloads
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+131  cd /Desktop
+  132  cd Desktop/
+  133  mkdir projects
+  134  ls
+  135  cd projects/
+  136  mkdir A1
+  137  cd A1/
+  138  ls
+  139  mkdir dsn
+  140  mkdir sim
+  141  cd dsn/
+  142  cd /home/
+  143  mkdir Dreambig_projects
+  144  cd Desktop
+  145  pwd
+  146  cd ..
+  147  pwd
+  148  cd Desktop/
+  149  mkdir Dreambig_projects
+  150  cd Dreambig_projects/
+  151  mkdir A1
+  152  ls
+  153  cd A1
+  154  mkdir dsn
+  155  mkdir sim
+  156  cd dsn/
+  157  pwd
+  158  cd Desktop/
+  159  cd Dreambig_projects/
+  160  ls
+  161  cd A1/
+  162  ls
+  163  cd sim
+  164  vlib work
+  165  vsim
+  166  jobs
+  167  env
+  168  echo $PATH
+  169  ls -l ~/intelFPGA/*/modelsim_ase/bin/vsim
+  170  ls -l ~/intelFPGA/*/modelsim_ase/bin/vsim
+  171  export PATH=${PATH}:/home/ubuntu/intelFPGA/20.1/modelsim_ase/bin/
+  172  echo $PATH
+  173  echo $SHELL
+  174* 
+  175  bg
+  176  ls -l ~/intelFPGA/*/modelsim_ase/bin/vsim
+  177  export PATH=${PATH}:/home/ubuntu/intelFPGA/20.1/modelsim_ase/bin/
+  /home/ubuntu/Utils/oss-cad-suite/bin/verilator
+  178  echo $PATH
+  179  echo $SHELL
+  180  code ./bashrc
+  181  more .bashrc
+  182  nano ./bashrc
+  183  ./bashrc
+  184  nano ~/.bashrc
+  185  source ~/.bashrc
+  186  nano ~/.bashrc
+  187  vsim
+  188  pwd
+  189  cd /home/
+  190  cd ~/.Desktop
+  191  cd Destop
+  192  pwd
+  193  cd /home/
+  194  cd ..
+  195  pwd
+  196  cd
+  197  ls
+  198  cd Desktop/
+  199  ls
+  200  cd Dreambig_projects/
+  201  ls
+  202  cd A1
+  203  ls
+  204  cd sim
+  205  vlib work
+  206  history
+ubuntu@ubuntu:~/Desktop/Dreambig_projects/A1/sim$ 
+
+///////////////////////////////////////////////////////////////////
+
+204  cd sim
+  205  vlib work
+  206  history
+  207  vlog ../dsn/odd_parity.v odd_parity_tb.v
+  208  vsim odd_parity_tb
+  209  vlog ../dsn/odd_parity.v odd_parity_tb.v
+  210  vsim odd_parity_tb
+  211  vlog ../dsn/odd_parity.v odd_parity_tb.v
+  212  vsim odd_parity_tb
+  213  vlog ../dsn/odd_parity.v odd_parity_tb.v
+  214  vsim odd_parity_tb
+  215  vlog ../dsn/mux_4x1_case.v mux_4x1_case_tb.v
+  216  vsim mux_4x1_case_tb
+  217  vlog ../dsn/mux_4x1_case.v mux_4x1_case_tb.v
+  218  vsim mux_4x1_case_tb
+  219  vlog ../dsn/mux_4x1_case.v mux_4x1_case_tb.v
+  220  vsim mux_4x1_case_tb
+  221  vlog ../dsn/mux_4x1_if.v mux_4x1_if_tb.v
+  222  vsim mux_4x1_if_tb
+  223  vlog ../dsn/decoder3x8_case.v decoder3x8_case_tb.v
+  224  vsim decoder3x8_case_tb
+  225  vlog ../dsn/encoder8x3_case.v encoder8x3_case_tb
+  226  vlog ../dsn/encoder8x3_case.v encoder8x3_case_tb.v
+  227  vsim encoder8x3_case_tb
+  228  vlog ../dsn/priorityencoder8x3.v priorityencoder8x3_tb.v
+  229  vsim priorityencoder8x3_tb
+  230  history
+ubuntu@ubuntu:~/Desktop/Dreambig_projects/A1/sim$ 
+
+/////////////////////////////////////////////////////////////////////
+ls
+ 1803  cd verilator
+ 1804  autoconf
+ 1805  iverilog
+ 1806  vcode
+ 1807  code
+ 1808  pwd
+ 1809  ls -l
+ 1810  cd examples/
+ 1811  clear
+ 1812  ls -l
+ 1813  cd cmake_hello_c
+ 1814  ls
+ 1815  make
+ 1816  ls
+ 1817  Makefile
+ 1818  ls
+ 1819  make
+ 1820  history
+//////////////////////////////////////////////////////////////////////
+~/Utils/oss-cad-suite/bin/verilator --binary test.sv tb.sv --top tb
+
+
+test0
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ~/Utils/oss-cad-suite/bin/verilator --binary test.sv tb.sv --top tb
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ./obj_dir/Vtb
+
+
+
+test1
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ~/Utils/oss-cad-suite/bin/verilator --binary test.sv test_tb.sv --top test_tb
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ./obj_dir/Vtest_tb
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ~/Utils/oss-cad-suite/bin/verilator --binary -o out.vvp test_tb.sv test.sv
+vvp out.vvp
+
+
+test2
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ~/Utils/oss-cad-suite/bin/verilator --binary delay_n_cycles.sv delay_n_cycles_tb.sv --top delay_n_cycles_tb
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ ./obj_dir/Vdelay_n_cycles_tb
+vvp out.vvp
+
+
+///////////////////////////////////////////////// done verilator process//////////////////////////
+ubuntu@ubuntu:~$ cd Desktop/linux_commad/vscode/sample_test/
+1st commad
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ verilator --binary test.sv test_tb.sv --top test_tb
+
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ verilator --binary --cc delay_n_cycles.sv delay_n_cycles_tb.sv --trace --exe -o simulation
+2nd commad
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test$ cd ./obj_dir/
+3rd commmad
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test/obj_dir$ ls
+4rth commad
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test/obj_dir$ ./out.vvp 
+5th commad
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test/obj_dir$ ./simulation 
+final commad 
+ubuntu@ubuntu:~/Desktop/linux_commad/vscode/sample_test/obj_dir$ gtkwave 
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
